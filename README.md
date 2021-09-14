@@ -1,4 +1,4 @@
-Assembleur base :
+Assembleur base (FR):
 
     - mov = copie d'un contenu
     ex : mov AX, 5 
