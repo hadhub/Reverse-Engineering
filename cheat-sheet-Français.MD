@@ -1,10 +1,10 @@
 Assembleur base :
 
-    - mov = copie d'un contenu
+    - mov = copie d'un contenu dans une variable
     ex : mov AX, 5 
     AX va prendre la valeur de 5
 
-    - cmp = comparer 
+    - cmp = comparer 2 variables
     cmp AH, BH
     AH et BH seront comparé
 
