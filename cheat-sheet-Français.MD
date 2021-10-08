@@ -41,10 +41,10 @@ Assembleur base :
 
     - thread = 2ème processus executé en parrallèle
 
-Tips pour du reverse engineering:
+Tips pour débuter dans le reverse engineering:
 - Ne pas tout comprendre mais regarder les fonctions appellé avec call.
-- Regarder le nom des fonctions + recherche sur internet
+- Regarder les noms des fonctions + recherche sur internet
 - En assembleur, "21h" => 21 en hexa (ne pas prendre le h lors de la conversion)
 
 Important : 
-- Avant d'executer une fonction, tout les paramètres de la fonction son stocké dans la pile d'execution.
+- Avant d'exécuter une fonction, tous les paramètres de la fonction son stockés dans la pile d'exécution.
